@@ -30,7 +30,7 @@ yarn dev
 
 ## 🌐 URLs
 
-🔗 **Backend**: [https://github-users-api.onrender.com](https://github-users-api.onrender.com)  
+🔗 **Backend**: [em breve]()  
 🔗 **Frontend**: [em breve]()  
 
 ## 📚 Tecnologias
@@ -88,7 +88,7 @@ yarn dev
 
 ## 🌐 Live URLs  
 
-🔗 **Backend**: [https://github-users-api.onrender.com](https://github-users-api.onrender.com)  
+🔗 **Backend**: [coming soon]()  
 🔗 **Frontend**: [coming soon]()  
 
 ## 📚 Tech Stack  
