@@ -108,7 +108,7 @@ yarn dev
 
 ---  
 
-✉ **Contact**: [e-mail 📧](mailto:marcusvrga@gmail.com)  
+✉ **Contact**: [marcusvrga@gmail.com 📧](mailto:marcusvrga@gmail.com)  
 🐛 **Issues**: [Report bug](https://github.com/mvrga/github-users-api/issues)  
 
 ---  
